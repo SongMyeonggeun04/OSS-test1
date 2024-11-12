@@ -1,7 +1,2 @@
-print('hello world')
-print('hello world')
-print('hello world')
-print('hello world')
-print('hello world')
-print('hello world')
-print('hello wwwwwww')
+for _ in range (10):
+    print("Wow!!!!!!!")
